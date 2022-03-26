@@ -1,6 +1,6 @@
 ### Hi there 👋, Hello , I am Khairuzzaman Hridoy
 #### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh](https://github.com/KhairuzzamanHridoy97/KhairuzzamanHridoy97/blob/main/A%20passionate%20frontend%20developer%20from%20Bangladesh.png)
+![A passionate frontend developer from Bangladesh]
 
 I'm a self-inspired individual with information on front-end web development. My objective is to function as a front-end engineer in the IT area and develop with the most recent innovation and expanding obligations . 
 Contact  Me: mdhridoy971@gmail.com 
