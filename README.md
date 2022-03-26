@@ -20,3 +20,19 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khairuzzamanhridoy97&show_icons=true&locale=en&layout=compact" alt="khairuzzamanhridoy97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khairuzzamanhridoy97&" alt="khairuzzamanhridoy97" /></p>
+
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khairuzzamanHridoy98)  
+
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairuzzamanHridoy98)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khairuzzamanHridoy98&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khairuzzamanHridoy98)  
+
+![Profile views](https://gpvc.arturio.dev/khairuzzamanHridoy98)  
