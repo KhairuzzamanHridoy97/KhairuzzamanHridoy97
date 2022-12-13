@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khairuzzamanhridoy97&label=Profile%20views&color=0e75b6&style=flat" alt="khairuzzamanhridoy97" /> </p>
 
-- 🌱 I’m currently learning **NodeJs, Express ,MongoDB**
+- 🌱 I’m currently learning **PHP,Laravel**
 
 - 💬 Ask me about **React**
 
